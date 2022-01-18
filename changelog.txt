@@ -1,0 +1,37 @@
+TODO Fix, add creeper face to all Beds?
+TODO Fix, stained glass texture
+
+12/25/21
+	+Updated to 1.18
+	+Fixed Broken connected textures due to optifine folder change.
+06/09/21
+	+Updated to 1.17
+	+Added New Textures for warped and crimson nylium, nether gold ore, and nether quartz
+	=changed pack name to "SimplyEmviromental"
+	-stained glass textures are broken and moved to tmp folder, TODO FIX
+5/29/20-
+	+Updated to 1.15 compatible pack.
+	+Podsol+Mycelium Texture!
+	=changed pack name to "Simplicity Minor"
+	=coarse dirt now uses newest vanilla dirt texture.
+	=mycelium fixed to use the packs dirt texture
+	-rid the pack of unnessesary files, now overlays textures.
+fixme: beds are broken with the latest colored beds addition
+
+11/14/14-
+	+Added Natural Textures
+
+7/22/14-
+	=Fixed Connected Textures Because they were Done sloppy and are now Perfect... Time to do 20 more(Stained Glass->.<-)
+
+5/13/14-
+	=Changed the Rotation of the startscreen panorama
+	=Fixed the Furnace GUI Wording Issue
+	=Fixed Echanted Book From Looking like a square outline
+	=Changed the "pack.mcmeta" to Have a More UpToDate Description
+
+4/15/14-
+	+Connected Textures for glass
+	=Changed Bed item to look like its Block Counterpart
+	=Fixed Broken Clock and Compass Conversion Issue
+	
